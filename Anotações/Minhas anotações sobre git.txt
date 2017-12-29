@@ -1,0 +1,23 @@
+--------- Adicionando arquivos ao stage ---------
+
+x) definir pasta local como repositorio git:
+	git init
+
+1) definir origin:
+	git remote add origin (link do repositorio)
+	
+2) criar commit para enviar arquivos ao stage:
+	git commit -m "mensagem do commit"
+
+3) dentro da pasta que vc quer adicionar os arquivos:
+	git add --all
+
+4) para dar o push e enviar para a origin:
+	git push origin master
+
+5) atualizando arquivos locais pegando os arquivos no github
+	git pull origin master
+
+6) em caso de conflitos entre arquivos: puxar o arquivo do github com o pull, abrir o arquivo e corrigir os conflitos e depois dar um push
+	git pull origin master
+	git push origin master
