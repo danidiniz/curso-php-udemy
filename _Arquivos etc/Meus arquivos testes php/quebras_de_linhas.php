@@ -30,4 +30,6 @@ if (isset($nome)) {
 	echo nl2br2($nome);
 }
 
+echo "<br/>";
+
 ?>
