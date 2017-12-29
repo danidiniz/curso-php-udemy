@@ -1,0 +1,5 @@
+O exemplo foi bem legal:
+
+Pense que o cliente sou eu na minha casa e que o servidor é o google que é uma padaria.
+Toda vez que eu quiser comprar pão eu darei um REQUEST para o google. 
+Ele por sua vez, sendo o servidor, irá processar o pedido em php e me dará um RESPONSE ao final do processo que será passado em html.

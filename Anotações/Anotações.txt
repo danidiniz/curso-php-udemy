@@ -1,0 +1,21 @@
+1) Nome do arquivo de configuração do Apache:
+		
+		HTTPD.CONF
+
+2) Nome do arquivo de configuração do PHP:
+
+		php.ini
+
+3) Pasta onde o Apache irá executar os arquivos php:
+		
+		C:\xampp\htdocs
+
+	obs.: em outros instaladores o nome da pasta por ser
+
+		WWW ou public_html
+
+4) Nome do arquivo padrão que o Apache irá procurar para executar:
+
+		index.php ou default.php
+
+5) 
